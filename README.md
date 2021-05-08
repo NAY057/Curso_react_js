@@ -232,7 +232,7 @@ Acá es posible validar que estos datos sean diferentes de los anteriores (this.
 }
 ```
 ```javascript
-componentWillUpdate(nextProps, nextState){
+componentWillUpdate(prevProps, prevState){
 	/*Una vez el método anterior devolvió true se ejecuta este método, acá es posible realizar cualquier tipo de preparación antes de que se actualice de la UI*/
 }
 ```
