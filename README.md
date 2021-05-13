@@ -53,6 +53,10 @@
 > Instalacion BOOTSTRAP
 - Escribir en consola lo siguiente.
 `npm install bootstrap`
+
+- Para importar bootstrap se debe de ubicar el import en el INDEX.JS
+`import 'bootstrap/dist/css/bootstrap.css';`
+
 > FIN instalacion BOOTSTRAP
 
 > COMPONENTES
